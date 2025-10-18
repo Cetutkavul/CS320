@@ -52,7 +52,7 @@ Overall, my approach balances planning, iterative testing, and reflection. By co
 Through this course, I strengthened my understanding of how testing drives quality software development. By applying consistent unit testing, boundary testing, and validation, I learned how to identify and correct logic errors early in the process.  
 This experience also reinforced the importance of designing software around clear requirements, applying defensive programming techniques, and maintaining a disciplined commitment to testing and documentation.
 
-The skills I developed here—writing efficient tests, validating user requirements, and maintaining high code quality—will continue to support me as I grow as a software engineer focused on reliability, maintainability, and security.
+The skills I developed here writing efficient tests, validating user requirements, and maintaining high code quality will continue to support me as I grow as a software engineer focused on reliability, maintainability, and security.
 
 ---
 
