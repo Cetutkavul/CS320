@@ -44,7 +44,6 @@ Overall, my approach balances planning, iterative testing, and reflection. By co
 - **Programming Language:** Java  
 - **Testing Framework:** JUnit 5  
 - **IDE:** Eclipse  
-- **Coverage Tool:** EclEmma (JaCoCo)  
 - **Development Environment:** Windows 11  
 
 ---
