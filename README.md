@@ -1,4 +1,4 @@
-# CS-320 Software Testing, Automation, QA
+# CS-320 Software Test, Automation, QA
 
 ## Overview
 This repository contains my work from **CS-320: Software Testing, Automation, and Quality Assurance** at **Southern New Hampshire University**.  
